@@ -27,7 +27,7 @@ const Section1 = () => {
                                 Feugiat primis ligula risus auctor laoreet augue egestas mauris viverra tortor in
                                 iaculis pretium at magna mauris ipsum primis rhoncus feugiat
                             </p>
-                            <Link to="/" className="btn order_now">
+                            <Link to="/" className=" order_now">
                                 Order Now
                             </Link>
                         </div>
